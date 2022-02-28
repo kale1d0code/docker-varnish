@@ -15,7 +15,7 @@ CONFIG='
 	"old": {
 		"debian": "bullseye",
 		"version": "7.0.2",
-		"tags": "7.0 latest",
+		"tags": "",
 		"pkg-commit": "d3e6a3fad7d4c2ac781ada92dcc246e7eef9d129",
 		"dist-sha512": "5eb08345c95152639266b7ad241185188477f8fd04e88e4dfda1579719a1a413790a0616f25d70994f6d3b8f7640ea80926ece7c547555dad856fd9f6960c9a3"
 	},
@@ -34,7 +34,7 @@ CONFIG='
 	"next": {
 		"debian": "bullseye",
 		"version": "7.0.2",
-		"tags": "7.0 latest",
+		"tags": "next",
 		"pkg-commit": "d3e6a3fad7d4c2ac781ada92dcc246e7eef9d129",
 		"dist-sha512": "5eb08345c95152639266b7ad241185188477f8fd04e88e4dfda1579719a1a413790a0616f25d70994f6d3b8f7640ea80926ece7c547555dad856fd9f6960c9a3",
 		"varnish-modules-version": "0.19.0",
